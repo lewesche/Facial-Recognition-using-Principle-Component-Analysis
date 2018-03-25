@@ -1,5 +1,5 @@
 # Facial-Recognition-using-Principle-Component-Analysis
-Facial recognition software built to classify faces from the Yale database using singular value decomposition and principle component analysis.
+Facial recognition software built to classify faces using singular value decomposition and principle component analysis, as opposed to more traditional classification methods. 
 #
 Four zip files contain face image sets provided by Yale University. 
 #
